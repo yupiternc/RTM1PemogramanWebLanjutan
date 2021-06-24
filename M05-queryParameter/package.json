@@ -1,0 +1,14 @@
+{
+  "name": "m05-queryparameter",
+  "version": "1.0.0",
+  "description": "Minggu5QueryParam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yupi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
